@@ -1,0 +1,9 @@
+esp8266_test_nucleo\cjson.o: ..\Core\Src\cJSON.c
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+esp8266_test_nucleo\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+esp8266_test_nucleo\cjson.o: ../Core/Inc/cJSON.h
